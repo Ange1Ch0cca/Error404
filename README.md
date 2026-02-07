@@ -22,5 +22,3 @@ See the [`LICENSE`](./LICENSE) file for full legal terms and usage restrictions.
 For license requests, business inquiries, or support:  
 - Email: contacto@error404.com  
 - Website: [https://error404.com](https://error404.com)
-
-<img width="15418" height="4567" alt="LOGO ERROR404" src="https://github.com/user-attachments/assets/5e943d51-519e-40dc-bf25-8057ea50021d" />

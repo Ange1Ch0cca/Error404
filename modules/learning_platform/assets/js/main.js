@@ -51,3 +51,10 @@
     mainWrapper.classList.remove("active");
   });
 })();
+
+const toggleBtn = document.querySelector('.toggle-active');
+
+toggleBtn.addEventListener('click', () => {
+  toggleBtn.classList.toggle('inactive');
+  toggleBtn.textContent = toggleBtn.classList.contains('inactive') ? 'Inactivo' : 'Activo';
+});
